@@ -14,6 +14,6 @@
      <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rodrigues0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rodrigues0&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Me tornei apaixonado pela tecnologia por ser curioso!😆 Até nos dias atuais por causa da minha curiosidade estou aprendendo muita coisas, concluindo sonhos, construindo expectativas, realizando muitas perspectivas e rumo ao máximo que a Tecnologia nos propõem 🚀
